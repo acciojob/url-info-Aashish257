@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let obj = location.href;
+ 
+let n = obj.length; 
 
-let n = obj.length;
-
-alert(n);
+alert(`The length of the URL is: ${n}`);  
 
